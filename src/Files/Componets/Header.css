@@ -1,0 +1,7 @@
+a {
+  text-decoration-line: blink;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+}
